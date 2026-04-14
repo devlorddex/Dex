@@ -42,13 +42,15 @@ Tailwind CSS • Advanced React Patterns • Scalable Backend Architecture
 
 ---
 
-### 📊 Realm Statistics
+### 📊 GitHub Stats
 
 <div align="center">
 
-![Devlorddex Stats](https://github-readme-stats.vercel.app/api?username=devlorddex&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)
+**Note:** Stats will start showing real numbers once you make more public commits and push projects.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devlorddex&layout=compact&theme=radical&hide_border=true&langs_count=12)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devlorddex&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devlorddex&layout=compact&theme=radical&hide_border=true&langs_count=10)
 
 ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=devlorddex&theme=radical&hide_border=true&border_radius=12)
 
