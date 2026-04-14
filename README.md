@@ -1,79 +1,85 @@
-# 👋 Hi, I'm Devlorddex
+<div align="center">
+  <h1>👾 Hi, I'm Devlorddex</h1>
+  <h3>Full Stack Developer | React & Node.js Enthusiast | Turning Ideas into Scalable Apps</h3>
 
-**Aspiring Full-Stack Developer** | **Problem Solver** | **Lifelong Learner**
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bishal-chettri-5a2143303/)
+</div>
 
 ---
 
 ### 🚀 About Me
-- 🎓 Currently learning **Web Development**, **Mobile Apps**, and **Backend Technologies**.
-- 💡 Passionate about building clean, user-friendly applications.
-- 🌱 Right now I'm diving deep into **Flutter**, **React**, **Node.js**, and **Python**.
-- 🎯 Goal: Create impactful projects that solve real-world problems.
+- 🎓 Passionate Full Stack Developer from **Bharatpur, Nepal**
+- 💻 Building modern web applications with clean code and great UX
+- 🌱 Currently leveling up in **React.js**, **Node.js**, and full-stack projects
+- 🔥 Open to **remote opportunities** and collaborations
+- ☕ Coffee + Code = My daily fuel
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Frontend:**  
-HTML • CSS • JavaScript • React • Tailwind CSS
+**Languages & Frameworks**
+![HTML](https://skillicons.dev/icons?i=html,css,javascript,php,python)
+![React](https://skillicons.dev/icons?i=react,nodejs)
+![C Family](https://skillicons.dev/icons?i=c,cpp,csharp)
 
-**Backend & Databases:**  
-Node.js • Express • Python • MySQL • MongoDB
+**Databases & Tools**
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Git](https://skillicons.dev/icons?i=git,github,vscode,figma,canva,linux)
 
-**Mobile:**  
-Flutter • Dart
-
-### 🛠️ Tools & Technologies
-
-<div align="left">
-
-**Version Control & Collaboration**  
-![Git](https://skillicons.dev/icons?i=git,github)  
-
-**Editors & IDEs**  
-![VS Code](https://skillicons.dev/icons?i=vscode)  
-
-**Design & Prototyping**  
-![Figma](https://skillicons.dev/icons?i=figma)  
-![Canva](https://skillicons.dev/icons?i=canva)  
-
-**Databases**  
-![MySQL](https://skillicons.dev/icons?i=mysql)  
-
-**Others**  
-![Linux](https://skillicons.dev/icons?i=linux)
-
-</div>
+**Additional**
+jQuery • SQL • Tailwind (learning)
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
-**Overview**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devlorddex&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Devlorddex's Stats](https://github-readme-stats.vercel.app/api?username=devlorddex&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-**Top Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devlorddex&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=jupyter%20notebook)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devlorddex&layout=compact&theme=radical&hide_border=true&langs_count=10)
 
-**Streaks**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devlorddex&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=devlorddex&theme=radical&hide_border=true)
 
 </div>
+
 ---
 
-### 🌐 Connect With Me
+### 🔥 Featured Projects
 
-- **LinkedIn** → https://www.linkedin.com/in/bishal-chettri-5a2143303/
+**Nepal Portal**
+
+A smart one-stop digital platform for everything Nepal.
+It seamlessly connects citizens with government services, allows reporting of public issues, and serves as a comprehensive knowledge hub. Whether you need guidance on official documents (citizenship, passport, PAN, etc.), want to report local problems, or simply want to learn more about Nepal — this portal brings it all together in one clean, user-friendly place.
+
+Key Features:
+
+Easy access to government services & document information
+Issue/complaint reporting system
+Detailed guides and resources about Nepal
+Centralized information hub for citizens and visitors
+
+Built with React.js, Node.js, and modern web technologies to ensure a fast and responsive experience.
+
+→ [View Repository](https://github.com/devlorddex/satanluciferd7)
+
+---
+
+### 💡 Quote of the Day
+> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”  
+> — Martin Fowler
+
+---
+
+### 🌐 Let's Connect
+- **LinkedIn** → [Lord Dex](https://www.linkedin.com/in/bishal-chettri-5a2143303/)
+- **Email** → satan.lucifer.d7@gmail.com
 - **Instagram** → https://www.instagram.com/lord.wukong.777?igsh=Y2kzeWsyMTh4MnYy
-- **Facebook** → https://www.facebook.com/share/187JCHYfuk/
----
-
-### ✨ Dev Quotes
-"The code you write makes you a programmer. The code you delete makes you a good one. The code you don’t have to write makes you a great one."
 
 ---
 
-*Thanks for visiting my profile!* 
-Feel free to explore my repositories and connect if you want to collaborate.
+<div align="center">
+  <strong>Thanks for stopping by! ✨ Feel free to explore my repos and say hi.</strong><br>
+  Made with ❤️ and lots of ☕ in Nepal
+</div>
