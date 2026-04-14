@@ -1,93 +1,77 @@
 <div align="center">
-
-  <!-- Blue Background Header -->
-  <div style="background: linear-gradient(135deg, #1e40af, #3b82f6); 
-              color: white; 
-              padding: 30px 20px; 
-              border-radius: 20px; 
-              margin: 25px 0; 
-              box-shadow: 0 15px 35px rgba(59, 130, 246, 0.4); 
-              width: 100%;">
-    <h1 style="margin: 0; font-size: 2.9em; font-weight: bold;">
-      Welcome to the Digital Realm of Devlorddex
-    </h1>
-  </div>
-
-  <h3>Full Stack Sorcerer • React & Node.js Alchemist • Building Nepal's Digital Future</h3>
-
+  <h1>👾 Hi, I'm Devlorddex</h1>
+  <h3>Full Stack Developer from Bharatpur, Nepal</h3>
+  <p>Building useful digital platforms — one line of code at a time.</p>
 </div>
 
 ---
 
-### 🌌 The Legend
-
-From the hills of **Bharatpur, Nepal**, I craft powerful digital experiences that bridge citizens with services and solve real problems.
-
-I don’t just write code — I build **ecosystems** that matter.
-
-- ☕ Fueled by Nepali chai
-- 🔥 Mastering modern full-stack development
-- 🌍 Open to remote opportunities
+### 🚀 About Me
+- 🌏 Based in **Bharatpur, Nepal**
+- 💻 Passionate about creating clean, scalable web applications
+- 🌱 Currently focused on **React.js**, **Node.js**, and full-stack projects
+- 🔥 Open to remote work and collaborations
+- ☕ Powered by Nepali chai and coding marathons
 
 ---
 
-### 🛠️ Arsenal of Technologies
+### 🛠️ Tech Stack
 
 **Languages & Frameworks**  
-HTML • CSS • JavaScript • PHP • Python • React.js • Node.js
+<img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,react,nodejs" alt="Languages" />
 
 **C Family**  
-C • C++ • C#
+<img src="https://skillicons.dev/icons?i=c,cpp,csharp" alt="C Family" />
 
 **Databases & Tools**  
-MySQL • Git • GitHub • VS Code • Figma • Canva • Linux
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma,canva,linux" alt="Tools" />
 
-**Exploring**  
-Tailwind CSS • Advanced React Patterns
+**Others**  
+jQuery • SQL • Tailwind CSS (Learning)
 
 ---
 
-### 📊 Realm Statistics
+### 📊 GitHub Stats
 
 <div align="center">
-  <p><em>Stats will grow as I push more public commits and projects.</em></p>
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devlorddex&show_icons=true&theme=radical&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devlorddex&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devlorddex&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devlorddex&layout=compact&theme=radical&hide_border=true&langs_count=12)
+
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=devlorddex&theme=radical&hide_border=true)
+
 </div>
 
 ---
 
-### 🔥 Legendary Projects
+### 🔥 Featured Projects
 
-**Nepal Portal** — *The Crown Jewel*  
-A revolutionary **one-stop digital ecosystem** for Nepal.  
+**Nepal Portal**
 
-This platform connects citizens with government services, public issue reporting, and complete guidance on documents and information about Nepal — all in one elegant place.
+A smart one-stop digital platform for everything Nepal.
+It seamlessly connects citizens with government services, allows reporting of public issues, and serves as a comprehensive knowledge hub. Whether you need guidance on official documents (citizenship, passport, PAN, etc.), want to report local problems, or simply want to learn more about Nepal — this portal brings it all together in one clean, user-friendly place.
 
-**Key Features:**
-- Government services & document guidance
+Key Features:
+
+- Easy access to government services & document information
 - Issue/complaint reporting system
-- Knowledge hub about Nepal
+- Detailed guides and resources about Nepal
+- Centralized information hub for citizens and visitors
 
-Built with **React.js • Node.js • MySQL**
+Built with React.js, Node.js, and modern web technologies to ensure a fast and responsive experience
 
-→ [View Nepal Portal](https://github.com/devlorddex/satanluciferd7)
-
-**Recommendation:** Rename the repo to `nepal-portal` for a cleaner look.
+→ [View Project](https://github.com/devlorddex/satanluciferd7)
 
 ---
 
-### 💡 Wisdom from the Code Realm
-
+### 💡 Quote
 > “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”  
 > — Martin Fowler
 
 ---
 
-### 🌐 Let's Connect
-
+### 🌐 Connect With Me
 - **LinkedIn** → [Bishal Chettri](https://www.linkedin.com/in/bishal-chettri-5a2143303/)
 - **Email** → [satan.lucifer.d7@gmail.com](mailto:satan.lucifer.d7@gmail.com)
 - **Instagram** → [@lord.wukong.777](https://www.instagram.com/lord.wukong.777)
@@ -95,6 +79,6 @@ Built with **React.js • Node.js • MySQL**
 ---
 
 <div align="center">
-  <strong>Thanks for stepping into my digital kingdom ✨</strong><br>
+  <strong>Thanks for stepping into my digital kingdom </strong><br>
   Made with ❤️ and Nepali pride in Bharatpur, Nepal
 </div>
